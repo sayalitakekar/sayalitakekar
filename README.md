@@ -55,7 +55,7 @@ Exploring loan dataset using Python to understand borrower trends & risk factors
 ---
 
 ## 📬 Connect With Me  
-📧 **Email:** *sayali.takekar4@gmail.com)*  
+📧 **Email:** *sayali.takekar4@gmail.com*  
 🔗 **LinkedIn:** *https://www.linkedin.com/in/sayalitakekar1/*  
 
 ---
